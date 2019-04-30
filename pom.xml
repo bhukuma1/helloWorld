@@ -48,7 +48,7 @@
 		<repository>
 			<id>bhupen</id>
 			<name>bhupen</name>
-			<url>http://localhost:8081/nexus/content/repositories/bhupen/</url>
+			<url>http://localhost:8081/nexus/content/repositories/bhupen</url>
 		</repository>
 	</distributionManagement>
 	
